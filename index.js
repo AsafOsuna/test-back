@@ -2,7 +2,7 @@ const http = require ("http")
 
 function requestController(){
     //Logica de la función
-    console.log("Hola mundo modificado")
+    console.log("Hola mundo!")
 }
 
 // Configurar nuestro servidor
